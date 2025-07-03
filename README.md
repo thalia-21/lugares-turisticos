@@ -9,7 +9,7 @@
 **Curso:** Geografía Turística del Perú  
 **Docente:** braulio davila 
 **Estudiante:** [thalia y melisa]  
-**Ciclo:** 2025-I  
+**Ciclo:** 2025-III 
 **Fecha de entrega:** 03 de julio de 2025
 
 ---
